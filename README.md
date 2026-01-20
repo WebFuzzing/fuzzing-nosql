@@ -10,6 +10,18 @@ In this package, we provide necessary info for replicating experiment in the pap
 - [scripts/tools](scripts/tools)  and [scripts/util](scripts/util) are folders where contains necessary utilities to conduct the experiment.
 - [EMB](https://github.com/WebFuzzing/EMB) refers to an existing benchmark for web/enterprise applications. In this study, we opted all REST APIs which use MongoDB, i.e., _bibliothek_, _genome-nexus_, _gestaohospitial-rest_, _ocvn-rest_, _reservations-api_, and _session-service_.
 
+### Cite our paper
+
+```
+@inproceedings{Ghianni2026NoSQL,
+  title = {Search-Based Fuzzing for {REST}ful {API}s that Use {MongoDB}},
+  author = {Ghianni, Hernan and Zhang, Man and Galeotti, Juan P. and Arcuri, Andrea},
+  booktitle = {Proceedings of the 2026 IEEE/ACM International Conference on Automation of Software Test (AST)},
+  year = {2026},
+  note = {To appear}
+}
+```
+
 ## Environment Setup
 
 This study employs various tools and multiple case studies.
