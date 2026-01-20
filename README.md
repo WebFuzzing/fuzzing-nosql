@@ -1,4 +1,4 @@
-# Search-Based Fuzzing For RESTful APIs With NoSQL Databases
+# Search-Based Fuzzing For RESTful APIs That Use MongoDB
 
 In this package, we provide necessary info for replicating experiment in the paper.
 
